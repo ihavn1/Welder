@@ -1,3 +1,6 @@
 [submodule "code/WelderFrontEnd/AB_Encoder"]
 	path = code/WelderFrontEnd/AB_Encoder
 	url = https://github.com/ihavn1/AB_Encoder.git
+[submodule "code/WelderFrontEnd/lcd2x16"]
+	path = code/WelderFrontEnd/lcd2x16
+	url = https://github.com/ihavn1/lcd2x16
